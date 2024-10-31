@@ -1,0 +1,7 @@
+
+post  http://localhost:3000/fetch_by_title
+Content-Type: application/json
+
+{
+    "title":"Sean ‘Diddy’ Combs denied bail and will remain in federal detention, judge rules - CNN"
+}
